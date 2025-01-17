@@ -38,9 +38,9 @@
 
 <h3 align="left">Achievements:</h3>
 <ul>
-  <li>💡 Built a **Splitwise-inspired app** with OCR and voice commands</li>
-  <li>📊 Developed an **Algorithm Visualizer** for educational purposes</li>
-  <li>📅 Created a **Task Master App** with advanced scheduling features</li>
+  <li>💡 Built a Splitwise-inspired app with OCR and voice commands</li>
+  <li>📊 Developed an Algorithm Visualizer for educational purposes</li>
+  <li>📅 Created a Task Master App with advanced scheduling features</li>
 </ul>
 
 <h3 align="center">"Keep learning, keep building!" 🚀</h3>
