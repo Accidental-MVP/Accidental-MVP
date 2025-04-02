@@ -26,6 +26,12 @@ user@accidental-mvp:~$ contact --help
 > linkedIn: https://www.linkedin.com/in/uday-writes-code  
 > github: https://github.com/accidental-mvp  
 ```
+---
+
+<!-- START:CURSED_METRICS -->
+🧨 Initializing metrics... Please stand by.
+<!-- END:CURSED_METRICS -->
+
 
 ---
 
