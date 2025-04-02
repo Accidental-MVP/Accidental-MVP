@@ -26,6 +26,8 @@ jobs:
           git config --global user.name "Cursed Metrics Bot"
           git config --global user.email "bot@metrics.void"
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/accidental-mvp/accidental-mvp.git
+          git pull --rebase origin main
           git add README.md
           git commit -m "🩻 updated cursed metrics" || echo "No changes to commit"
           git push origin main
+
