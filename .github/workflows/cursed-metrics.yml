@@ -13,6 +13,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           persist-credentials: false
+          fetch-depth: 0
 
       - name: Generate Cursed Metrics
         run: |
@@ -30,4 +31,3 @@ jobs:
           git add README.md
           git commit -m "🩻 updated cursed metrics" || echo "No changes to commit"
           git push origin main
-
