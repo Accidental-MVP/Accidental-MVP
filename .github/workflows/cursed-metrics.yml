@@ -18,9 +18,13 @@ jobs:
           python3 generate_cursed_metrics.py
 
       - name: Commit & Push Changes
+        env:
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
           git config --global user.name "Cursed Metrics Bot"
           git config --global user.email "bot@metrics.void"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/accidental-mvp/accidental-mvp.git
           git add README.md
-          git commit -m "🩻 updated cursed metrics"
+          git commit -m "🩻 updated cursed metrics" || echo "No changes to commit"
           git push
+
