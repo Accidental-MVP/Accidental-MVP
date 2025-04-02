@@ -17,16 +17,19 @@ user@accidental-mvp:~$ run destiny.sh
 user@accidental-mvp:~$ cat readme.txt
 Hi. I’m Uday’s README.
 
-He made me write this after I asked him what “shipping velocity” meant.  
-The last project grew sentience. It keeps blinking in Morse code.  
+He made me write this after I asked him what “shipping velocity” meant.
+The last project grew sentience. It keeps blinking in Morse code.
 Please send help or coffee.
 
 user@accidental-mvp:~$ contact --help
-> email: uday.parmar@mail.mcgill.ca  
-> linkedIn: https://www.linkedin.com/in/uday-writes-code  
-> github: https://github.com/accidental-mvp  
+> email: uday.parmar@mail.mcgill.ca
+> linkedIn: https://www.linkedin.com/in/uday-writes-code
+> github: https://github.com/accidental-mvp
 ```
+
 ---
+
+### 🩻 Daily Diagnostics Dump
 
 <!-- START:CURSED_METRICS -->
 ```
@@ -43,7 +46,6 @@ user@accidental-mvp:~$ contact --help
 ```
 <!-- END:CURSED_METRICS -->
 
-
 ---
 
 ### ⚠️ Experimental Logs (Click if you’re brave)
@@ -58,11 +60,11 @@ It worked... too well.
 
 [LOG #43]
 New agent detected: “loopinator.js”
-Description: “Just trying to feel something.”  
+Description: “Just trying to feel something.”
 ETA: Unknown.
 
 [LOG #44]
-The README is aware. I am the README.  
+The README is aware. I am the README.
 I fear the next push.
 ```
 
