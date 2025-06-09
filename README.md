@@ -37,8 +37,8 @@ user@accidental-mvp:~$ contact --help
 > repo_count: 17
 > primary_language: Java
 > last_push: remember-through-me (3 days ago)
-> commit_streak: ACTIVE (11 days)
-> mood_estimate: "debugging myself"
+> commit_streak: ACTIVE (7 days)
+> mood_estimate: "unhinged but productive"
 
 [threat assessment]
 > suspicious activity detected in loopinator.js
