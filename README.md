@@ -35,8 +35,8 @@ user@accidental-mvp:~$ contact --help
 ```
 [diagnostic.log]
 > repo_count: 17
-> primary_language: Python
-> last_push: remember-through-me (5 days ago)
+> primary_language: C++
+> last_push: remember-through-me (3 days ago)
 > commit_streak: ACTIVE (8 days)
 > mood_estimate: "unhinged but productive"
 
