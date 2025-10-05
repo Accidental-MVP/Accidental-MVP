@@ -26,7 +26,6 @@ user@accidental-mvp:~$ contact --help
 > linkedIn: https://www.linkedin.com/in/uday-writes-code
 > github: https://github.com/accidental-mvp
 ```
-
 ---
 
 ### 🧩 System Diagnostics
