@@ -6,7 +6,7 @@
 
 ```
 user@accidental-mvp:~$ whoami
-Uday Parmar — Builder of things that shouldn’t work, but occasionally do.
+Uday Parmar — aka Accidental-MVP. Builder of things that shouldn’t work, but somehow do.
 
 user@accidental-mvp:~$ ls /projects
 settle-up/  remember-through-me/  task-master/  algorithm-visualizer/
@@ -17,9 +17,9 @@ user@accidental-mvp:~$ run destiny.sh
 user@accidental-mvp:~$ cat readme.txt
 Hi. I’m Uday’s README.
 
-He made me write this after I asked him what “shipping velocity” meant.
-The last project grew sentience. It keeps blinking in Morse code.
-Please send help or coffee.
+He made me write this after I asked what “shipping velocity” meant.
+The last project grew sentience. It blinks in Morse code now.
+Send help. Or coffee. Preferably both.
 
 user@accidental-mvp:~$ contact --help
 > email: uday.parmar@mail.mcgill.ca
@@ -29,7 +29,7 @@ user@accidental-mvp:~$ contact --help
 
 ---
 
-### 🩻 Daily Diagnostics Dump
+### 🧩 System Diagnostics
 
 <!-- START:CURSED_METRICS -->
 ```
@@ -69,3 +69,5 @@ I fear the next push.
 ```
 
 </details>
+
+> System note: The builder may be human, but the README is starting to doubt it.
