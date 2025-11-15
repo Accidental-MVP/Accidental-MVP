@@ -34,10 +34,10 @@ user@accidental-mvp:~$ contact --help
 ```
 [diagnostic.log]
 > repo_count: 17
-> primary_language: TypeScript
+> primary_language: C++
 > last_push: remember-through-me (2 days ago)
-> commit_streak: ACTIVE (8 days)
-> mood_estimate: "unhinged but productive"
+> commit_streak: ACTIVE (3 days)
+> mood_estimate: "softly melting"
 
 [threat assessment]
 > suspicious activity detected in loopinator.js
