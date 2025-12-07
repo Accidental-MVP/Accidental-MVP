@@ -34,9 +34,9 @@ user@accidental-mvp:~$ contact --help
 ```
 [diagnostic.log]
 > repo_count: 17
-> primary_language: C++
+> primary_language: TypeScript
 > last_push: remember-through-me (3 days ago)
-> commit_streak: ACTIVE (4 days)
+> commit_streak: ACTIVE (3 days)
 > mood_estimate: "dangerously caffeinated"
 
 [threat assessment]
