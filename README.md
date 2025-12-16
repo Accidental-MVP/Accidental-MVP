@@ -34,8 +34,8 @@ user@accidental-mvp:~$ contact --help
 ```
 [diagnostic.log]
 > repo_count: 17
-> primary_language: TypeScript
-> last_push: remember-through-me (4 days ago)
+> primary_language: Java
+> last_push: remember-through-me (2 days ago)
 > commit_streak: ACTIVE (10 days)
 > mood_estimate: "unhinged but productive"
 
