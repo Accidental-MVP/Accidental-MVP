@@ -34,9 +34,9 @@ user@accidental-mvp:~$ contact --help
 ```
 [diagnostic.log]
 > repo_count: 17
-> primary_language: Java
-> last_push: remember-through-me (5 days ago)
-> commit_streak: ACTIVE (12 days)
+> primary_language: C++
+> last_push: remember-through-me (2 days ago)
+> commit_streak: ACTIVE (14 days)
 > mood_estimate: "debugging myself"
 
 [threat assessment]
