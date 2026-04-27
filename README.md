@@ -34,9 +34,9 @@ user@accidental-mvp:~$ contact --help
 ```
 [diagnostic.log]
 > repo_count: 17
-> primary_language: Python
+> primary_language: TypeScript
 > last_push: remember-through-me (5 days ago)
-> commit_streak: ACTIVE (6 days)
+> commit_streak: ACTIVE (9 days)
 > mood_estimate: "aggressively calm"
 
 [threat assessment]
