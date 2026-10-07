@@ -1,72 +1,52 @@
-<!-- Uday Parmar's README - Accidental MVP Edition -->
+## Uday Parmar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7F7F7&center=true&vCenter=true&width=435&lines=user%40accidental-mvp%3A~%24+run+readme.sh" alt="Typing SVG" />
-</p>
+**I build AI systems that go into production and stay there.**
 
-```
-user@accidental-mvp:~$ whoami
-Uday Parmar — aka Accidental-MVP. Builder of things that shouldn’t work, but somehow do.
+Final-year Computer Science (AI) at McGill, graduating May 2027. I joined a royalty company
+listed on the TSX and NYSE as its first in-house developer and took its AI and data systems
+from an empty repository into production over one summer — which in practice meant learning
+to read mining technical reports.
 
-user@accidental-mvp:~$ ls /projects
-settle-up/  remember-through-me/  task-master/  algorithm-visualizer/
+**[uday-parmar.vercel.app](https://uday-parmar.vercel.app)** · [Résumé](https://uday-parmar.vercel.app/Uday-Parmar-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/uday-writes-code/) · uday.parmar@mail.mcgill.ca
 
-user@accidental-mvp:~$ run destiny.sh
-> Error: You’re already in it.
-
-user@accidental-mvp:~$ cat readme.txt
-Hi. I’m Uday’s README.
-
-He made me write this after I asked what “shipping velocity” meant.
-The last project grew sentience. It blinks in Morse code now.
-Send help. Or coffee. Preferably both.
-
-user@accidental-mvp:~$ contact --help
-> email: uday.parmar@mail.mcgill.ca
-> linkedIn: https://www.linkedin.com/in/uday-writes-code
-> github: https://github.com/accidental-mvp
-```
----
-
-### 🧩 System Diagnostics
-
-<!-- START:CURSED_METRICS -->
-```
-[diagnostic.log]
-> repo_count: 17
-> primary_language: JavaScript
-> last_push: remember-through-me (1 days ago)
-> commit_streak: ACTIVE (7 days)
-> mood_estimate: "softly melting"
-
-[threat assessment]
-> suspicious activity detected in loopinator.js
-> file count exceeds sanity threshold
-```
-<!-- END:CURSED_METRICS -->
+Open to **Summer 2027 new-grad roles**. I'm most useful somewhere the engineering touches a
+domain with real rules in it — finance, compliance, anything where being wrong has
+consequences and the right answer has to be traceable.
 
 ---
 
-### ⚠️ Experimental Logs (Click if you’re brave)
-<details>
-<summary>🧪 Expand log</summary>
+### Things you can actually install
 
-```
-[LOG #42]
-He hasn't slept. The commit messages are starting to rhyme.
-Last night he tried to automate his own emotions.
-It worked... too well.
+| | | |
+|---|---|---|
+| **[TabScribe](https://github.com/Accidental-MVP/TabScribe)** | Research workspace running entirely on-device via Chrome's Gemini Nano — summarise, rewrite, translate and cite with the network off. | [Chrome Web Store](https://chromewebstore.google.com/detail/tabscribe-%E2%80%94-research-os-f/adajfbbemhhjpgmiedkgbaceiiahgafd) |
+| **[CodeRoast](https://github.com/Accidental-MVP/code-roast)** | AI code reviewer with a grudge. The humour is the delivery mechanism; it hooks the same VS Code diagnostics pipeline a real linter does. | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=accidental-mvp.code-roast) |
+| **TaxMapCA** | Four questions, one exact Canadian sales-tax rate, a government source behind every answer. Deterministic on purpose — a tax answer that can hallucinate is worse than no answer. | [taxmapca.com](https://www.taxmapca.com) |
 
-[LOG #43]
-New agent detected: “loopinator.js”
-Description: “Just trying to feel something.”
-ETA: Unknown.
+### Things worth reading the code of
 
-[LOG #44]
-The README is aware. I am the README.
-I fear the next push.
-```
+**[VectralQ](https://github.com/Accidental-MVP/VectralQ)** — enterprise search on Postgres
+instead of a vector database. Three retrieval lanes fused with RRF, a phrase lane scored
+separately from bag-of-words, a cross-encoder reranker, and tenant isolation enforced by
+Postgres row-level security rather than application filtering. Into McGill TechAccel in a
+month, then shut down on weak demand. Killing it was the right call.
 
-</details>
+**[ARMM](https://github.com/Accidental-MVP/ARMM)** — a market maker that decides what kind of
+market it's in before it decides how to quote. BAND/DRIFT/EVENT classification with
+hysteresis, inventory treated as a steered control variable. Solo in 24 hours, 2nd in the
+National Bank Challenge.
 
-> System note: The builder may be human, but the README is starting to doubt it.
+**[wtf](https://github.com/Accidental-MVP/wtf)** — diagnoses terminal errors against your
+actual machine: your Python, your installed packages, your `requirements.txt`, whether your
+virtualenv is even active. Pasting a traceback into a chatbot throws all of that away.
+
+**[DocuMint](https://github.com/Accidental-MVP/DocuMint)** — README generation that survives a
+real repository. The chunker is the project; everything else is plumbing around deciding what
+to put in front of the model.
+
+---
+
+Python · TypeScript · FastAPI · Next.js · PostgreSQL + pgvector · Azure · Docker
+
+<sub>I also built a Chrome extension that files a public GitHub issue every time I get
+distracted. It worked, which was the worst part.</sub>
